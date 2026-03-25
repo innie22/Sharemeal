@@ -2,7 +2,7 @@
 Payonmeal
 # Description
 This app will help with the meal payments as a group orders. Users can create groups such as office lunch or friends dinner. Users can add the menu in the group and make the orders and payments on the apps. 
-#features
+# features
 Users can create a group, in the group, they can add other users. When 
 # contract
 https://stellar.expert/explorer/testnet/contract/CDABENG5PK5YK36DJTEV4JBEVTS2YG4HD2QOILWKW6473OJW3LFVW3KV
